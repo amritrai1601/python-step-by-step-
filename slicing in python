@@ -1,0 +1,4 @@
+#print(),indexing and .format
+#to insert string into print we have 2 method as .format() and fstring 
+#.format
+print("hello this is {}".format("amrit"))#{}is very important to place additonal strings 
